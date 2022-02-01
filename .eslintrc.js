@@ -1,11 +1,10 @@
 module.exports = {
     env: {
       browser: true,
-      es6: true,
+      es2021: true,
     },
     extends: [
-      'plugin:react/recommended',
-      'airbnb'
+      'react-app',
     ],
     globals: {
       Atomics: 'readonly',
@@ -15,12 +14,13 @@ module.exports = {
       ecmaFeatures: {
         jsx: true,
       },
-      ecmaVersion: es6,
+      ecmaVersion: 2021,
       sourceType: 'module',
     },
     parser: 'babel-eslint',
     plugins: [
       'react',
+      'import'
     ],
     rules: {
       indent: 'off',
