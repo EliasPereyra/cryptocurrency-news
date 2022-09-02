@@ -1,7 +1,18 @@
-# A SPA app
-This app is a small app that shows information about cryptocurrencies with up-to-date news.
+<div>
+  <h1>Cryptocurrencies News</h1>
+  <p>This app is a small app that shows information about cryptocurrencies with up-to-date news.</p>
+</div>
+
+## Built with
+
+- ![React.js][react.js]
+- ![Chart.js][react.js]
+- ![Redux][redux]
 
 ## Available Scripts
+
+npm start
+
 ### `npm start`
 
 Runs the app in the development mode.\
