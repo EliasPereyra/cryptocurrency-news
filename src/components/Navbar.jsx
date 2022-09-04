@@ -39,6 +39,7 @@ const Navbar = () => {
           <Link to="/">Digcoin</Link>
           {/* <Button className="menu-control-container"></Button> */}
         </Typography.Title>
+        <Typography.Text level={3}>News</Typography.Text>
         <Button
           className="menu-control-container"
           onClick={() => setActiveMenu(!activeMenu)}
