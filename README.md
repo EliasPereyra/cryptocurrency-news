@@ -9,8 +9,8 @@
 - ![Chart.js][Chart.js]
 - ![Redux][Redux]
 
-[React.js]: https://img.shields.io/badge/reactdotjs-61DAFB?style=for-the-badge&logo=reactdotjs&logoColor=white
-[Chart.js]: https://img.shields.io/badge/chartdotjs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white
+[React.js]: https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=reactdotjs&logoColor=white
+[Chart.js]: https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white
 [Redux]: https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white
 
 ## Available Scripts
