@@ -8,11 +8,17 @@
 
 - ![React.js][React.js]
 - ![Chart.js][Chart.js]
+- ![Axios][Axios]
 - ![Redux][Redux]
+- ![Antd][Antd]
+- ![Chart.js][Chart.js]
 
 [React.js]: https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white
 [Chart.js]: https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white
+[Axios]: https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white
 [Redux]: https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white
+[Antd]: https://img.shields.io/badge/antdesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white
+[Chart.js]: https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white
 
 ## Getting started
 To get a local copy up and running follow these simple steps
