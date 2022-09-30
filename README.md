@@ -26,8 +26,8 @@ npm install npm@latest -g
 
 ### Installation
 
-1. Get a free API KEY at [htttps://rapidapi.com](htttps://rapidapi.com)
-2. Get a free API KEY at [htttps://rapidapi.com](htttps://rapidapi.com)
+1. Get a free API KEY at [RapidAPI](https://rapidapi.com)
+2. Get a free API KEY at [RapidAPI](https://rapidapi.com)
 3. Clone the repo
 
 ```sh
